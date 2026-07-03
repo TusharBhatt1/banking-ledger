@@ -44,7 +44,7 @@ Node.js · Express · MongoDB Atlas (Mongoose) · JWT · bcrypt · Nodemailer ·
 5. On success → `COMPLETED` (+ email). On failure → `REVERSED`, no partial entries left behind
 
 ## API Endpoints
-[All present here](https://cloudy-meteor-226369.postman.co/workspace/Bank-Ledger~cb26e329-3898-478b-8648-650d7cd73cee/request/31709283-bed2b81d-51ba-45db-a661-68a6d4f15781?action=share&creator=31709283)
+[All endpoints here](https://cloudy-meteor-226369.postman.co/workspace/Bank-Ledger~cb26e329-3898-478b-8648-650d7cd73cee/request/31709283-bed2b81d-51ba-45db-a661-68a6d4f15781?action=share&creator=31709283)
 
 ## Setup
 
