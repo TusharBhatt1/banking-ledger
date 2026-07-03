@@ -2,6 +2,9 @@
 
 A backend for user auth, accounts, and ledger-based transactions. Built with **Node.js**, **Express**, and **MongoDB**.
 
+<img width="458" height="476" alt="image" src="https://github.com/user-attachments/assets/c9aa6657-230f-42f7-80fc-a17e4910c650" />
+
+
 ## Overview
 
 - Register/login with JWT auth
@@ -41,25 +44,12 @@ Node.js · Express · MongoDB Atlas (Mongoose) · JWT · bcrypt · Nodemailer ·
 5. On success → `COMPLETED` (+ email). On failure → `REVERSED`, no partial entries left behind
 
 ## API Endpoints
-
-**Auth**
-- `POST /api/auth/register`
-- `POST /api/auth/login`
-- `POST /api/auth/logout`
-
-**Accounts**
-- `POST /api/accounts`
-- `GET /api/accounts/:id/status`
-- `GET /api/accounts/:id/balance`
-
-**Transactions**
-- `POST /api/transactions`
-- `GET /api/transactions/:id`
+[All endpoints here](https://cloudy-meteor-226369.postman.co/workspace/Bank-Ledger~cb26e329-3898-478b-8648-650d7cd73cee/request/31709283-bed2b81d-51ba-45db-a661-68a6d4f15781?action=share&creator=31709283)
 
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/TusharBhatt1/banking-ledger/backend>
 cd bank-ledger
 npm install
 ```
@@ -70,7 +60,7 @@ PORT=3001
 MONGO_URI=
 JWT_SECRET=
 GOOGLE_APP_PASSWORD=
-GOOGLE_CLIENT
+GOOGLE_CLIENT=
 ```
 
 ```bash
