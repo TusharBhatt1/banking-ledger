@@ -44,25 +44,12 @@ Node.js · Express · MongoDB Atlas (Mongoose) · JWT · bcrypt · Nodemailer ·
 5. On success → `COMPLETED` (+ email). On failure → `REVERSED`, no partial entries left behind
 
 ## API Endpoints
-
-**Auth**
-- `POST /api/auth/register`
-- `POST /api/auth/login`
-- `POST /api/auth/logout`
-
-**Accounts**
-- `POST /api/accounts`
-- `GET /api/accounts/:id/status`
-- `GET /api/accounts/:id/balance`
-
-**Transactions**
-- `POST /api/transactions`
-- `GET /api/transactions/:id`
+[All present here](https://cloudy-meteor-226369.postman.co/workspace/Bank-Ledger~cb26e329-3898-478b-8648-650d7cd73cee/request/31709283-bed2b81d-51ba-45db-a661-68a6d4f15781?action=share&creator=31709283)
 
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/TusharBhatt1/banking-ledger/backend>
 cd bank-ledger
 npm install
 ```
