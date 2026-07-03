@@ -2,6 +2,9 @@
 
 A backend for user auth, accounts, and ledger-based transactions. Built with **Node.js**, **Express**, and **MongoDB**.
 
+<img width="458" height="476" alt="image" src="https://github.com/user-attachments/assets/c9aa6657-230f-42f7-80fc-a17e4910c650" />
+
+
 ## Overview
 
 - Register/login with JWT auth
