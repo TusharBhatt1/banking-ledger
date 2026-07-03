@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+	  "module": "NodeNext",
+	  "moduleResolution": "NodeNext",
+	  "target": "ES2022",
+	  "types": ["node"],
+			
+	  "allowJs": true,
+	  "checkJs": true,
+	  "strict": true,
+	  "noImplicitAny": true,
+	  "noImplicitThis": true,
+	  "noImplicitReturns": true,
+	  "outDir": "./dist",
+	  "rootDir": "./"
+	}
+  }
